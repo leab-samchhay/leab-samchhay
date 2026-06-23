@@ -1,6 +1,5 @@
 <div align="center">
   <!-- ១. ផ្ទាំង Banner ធំខាងលើ (ជំនួសលីងរូបភាព Banner របស់អ្នក) -->
-  <img src="https://via.placeholder.com/1200x300" alt="Banner" width="100%"/>
   
   <br/><br/>
   
